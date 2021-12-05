@@ -1,4 +1,4 @@
-package com.lescode.aula1;
+package com.letscode.aula1;
 
 public class HelloWorld {
     public static void main(String[] args) {
