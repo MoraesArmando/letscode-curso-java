@@ -1,4 +1,4 @@
-package com.letscode.lab.exercicio02;
+package com.letscode.exercicio.classs.exercicio02;
 
 import java.text.NumberFormat;
 import java.util.Locale;

@@ -1,4 +1,4 @@
-package com.letscode.lab.exercicio01;
+package com.letscode.exercicio.classs.exercicio01;
 
 
 public class Questao10 {
