@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Turno {
     public static void main(String[] args) {
+ /*
         Scanner sc = new Scanner(System.in);
         System.out.println("Qual turno você estuda. Obs - Digite 'M'[MATUTINO], 'V'[VESPERTINO], 'N'[NOTURNO]");
         String turno = sc.next().toUpperCase();
@@ -14,6 +15,6 @@ public class Turno {
             case "N" -> System.out.println("Boa noite!");
             default -> System.out.println("Valor inválido");
         }
-
+*/
     }
 }
