@@ -1,7 +1,7 @@
 package com.letscode.aula08;
 
 public class Financiamento {
-    private  double valor;
+/*    private  double valor;
     private   double entrada;
     private  int parcelas;
 
@@ -16,5 +16,5 @@ public class Financiamento {
 
     public void valorDaPrestação(){
 
-    }
+    }*/
 }
